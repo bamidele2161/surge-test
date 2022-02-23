@@ -14,13 +14,13 @@
   letter-spacing: 1px;
 }
 .about-heading{
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   font-weight: bold;
 }
 .brand-name{
   font-weight: bold;
   font-size: 24px;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 .second-container{
   width: 50%;
@@ -29,7 +29,7 @@
   letter-spacing: 1.1px;
 }
 .list-items{
-  margin-bottom: 100px;
+  margin-bottom: 120px;
 }
 .list-item{
   list-style-type: none;
@@ -46,7 +46,7 @@
 }
 .form-heading{
   font-weight: bold;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 .form-sub-heading{
   font-size: 22px;
@@ -55,7 +55,7 @@
 
 /*form style*/
 .form-container{
-  margin-top: 50px;
+  margin-top: 40px;
 }
 .name-div{
   display: flex;
@@ -64,13 +64,13 @@
 .input-items{
   display: flex;
   flex-direction: column;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .input-field{
   background-color: rgb(242,243,244);
   border: none;
   border-radius: 5px;
-  height: 50px;
+  height: 45px;
   padding: 0px 10px;
 }
 .error-paragraph{
@@ -95,17 +95,17 @@ select{
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 .submit-btn{
   background-color: rgb(35,62,139);
   padding: 10px 30px;
-  margin: 20px 0px;
+  margin: 10px 0px;
   border: none;
   border-radius: 5px;
   color: white;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 18px;
 }
 .submit-btn:hover{
@@ -270,10 +270,10 @@ body.active-modal{
   }
   
   .modal-content{
-    padding: 50px;
+    padding: 35px;
   }
   .overlay {
-    padding: 60px 50px;
+    padding: 50px 50px;
   }
   .modal-heading{
     margin-bottom: 40px;
